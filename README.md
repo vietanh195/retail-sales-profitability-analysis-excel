@@ -211,7 +211,7 @@ Controlling discounts produced a significantly larger impact on profit than incr
 
 ### Regional Analysis
 
-![Regional Analysis](images/region_analysis.png)
+![Regional Analysis](images/regional_analysis.png)
 
 ### Customer Analysis
 
